@@ -1,0 +1,18 @@
+1 registration
+2 Email
+3 Social network
+4 Validating fields
+
+5 Authorization
+6 User activated
+7 User not activated
+8 Password recovery
+9 Validating fields
+
+10 Profile
+11 Name change
+12 Change Email
+13 Password Changes
+14 Validating fields
+15 Subscription
+15 Account deleting
